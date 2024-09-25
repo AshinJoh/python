@@ -7,3 +7,5 @@ dd["fruits"].append('orange')
 
 print(dd['fruits'])
 print(dd['vegetables'])
+
+#Learned about collections
